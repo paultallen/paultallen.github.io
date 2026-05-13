@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Paul T Allen"
+  navbar: false
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-title: "On this page"
+    toc-location: left
+    toc-depth: 2
