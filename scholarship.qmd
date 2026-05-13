@@ -1,0 +1,61 @@
+---
+title: "Scholarship"
+---
+
+Most of my technical mathematical work involves problems in geometric analysis and mathematical general relativity. More specifically, I have worked on theory for solving partial differential equations related to the Einstein equations. I have also supervised a large number of undergraduate projects.
+
+## Projects with Undergraduate Students
+
+I have supervised projects for undergraduate students on these topics:
+
+- **Reaction-diffusion equations.** I have supervised several projects related to numerical simulations of reaction-diffusion equations. Alison and Jenny completed a fun project on the Belousov-Zhabotinsky reaction. Sarah and Nuzhat both completed projects related to the FRAP imaging method.
+
+- **Discrete analogs of differential equations.** I have supervised two different projects related to discretizations of differential equations. Karlie and Sara worked on a project that established solutions to boundary value problems via discrete approximations. Eli and Mack studied flows of polygons that are semi-discrete analogs of the curve shortening flow.
+
+- **Parabolic geometric flows.** I have supervised two different projects related to parabolic geometric flows. Katie and Adam worked on the curve shortening flow subject to Dirichlet boundary conditions. Colin worked on a variant of the curve shortening flow arising from rotationally-symmetric mean curvature flow.
+
+## Papers
+
+- Paul T. Allen, John M. Lee, and David Maxwell. Sobolev-class asymptotically hyperbolic manifolds and the Yamabe problem. *Under review.* <https://arxiv.org/abs/2206.12854>
+
+- Paul T. Allen, James Isenberg, John M. Lee and Iva Stavrov Allen. Asymptotic Gluing of Shear-Free Hyperboloidal Initial Data Sets. [*Annales Henri Poincaré* (2021)](https://rdcu.be/ccV68). <https://arxiv.org/abs/1912.02839>
+
+- Paul T. Allen. Boundary Value Problems and Finite Differences. [*College Math Journal* 47 (2016), no. 1, 34–41](https://www.maa.org/press/periodicals/college-mathematics-journal/the-college-mathematics-journal).
+
+- Paul T. Allen, James Isenberg, John M. Lee, Iva Stavrov Allen. The shear-free condition and constant-mean-curvature hyperboloidal initial data. [*Classical and Quantum Gravity*, Volume 33, Number 11](http://iopscience.iop.org/article/10.1088/0264-9381/33/11/115015). [arXiv:1506.06090](http://arxiv.org/abs/1506.06090)
+
+- Paul T. Allen and Iva Stavrov Allen. Smoothly compactifiable shear-free hyperboloidal data is dense in the physical topology. [*Annales Henri Poincaré* (2017) 18: 2789](https://doi.org/10.1007/s00023-017-0565-2). [arXiv:1506.05842](http://arxiv.org/abs/1506.05842)
+
+- Paul T. Allen, James Isenberg, John M. Lee, Iva Stavrov Allen. Weakly asymptotically hyperbolic manifolds. [*Communications in Analysis and Geometry*, Volume 26 (2018), Number 1](http://www.intlpress.com/site/pub/pages/journals/items/cag/content/vols/0026/0001/a001/index.html). [arXiv:1506.03399](http://arxiv.org/abs/1506.03399)
+
+- Paul T. Allen, Adam Layne, Katharine Tsukahara. The Dirichlet problem for curve shortening flow. (unpublished) [arXiv:1208.3510](http://arxiv.org/abs/1208.3510)
+
+- Paul T. Allen, Lars Andersson, Alvaro Restuccia. Local well-posedness for membranes in the light cone gauge. *Comm. Math. Phys.* 301 (2011), no. 2, 383–410. <http://arxiv.org/abs/0910.1488>
+
+- Paul T. Allen, Alan D. Rendall. Asymptotics of linearized cosmological perturbations. *J. Hyperbolic Differ. Equ.* 7 (2010), no. 2, 255–277. <http://arxiv.org/abs/0906.2517>
+
+- Paul T. Allen, Adam Clausen, James Isenberg. Near-constant mean curvature solutions of the Einstein constraint equations with non-negative Yamabe metrics. *Classical Quantum Gravity* 25 (2008), no. 7, 075009, 15 pp. <http://arxiv.org/abs/0710.0725>
+
+- Paul T. Allen, Lars Andersson, James Isenberg. Timelike minimal submanifolds of general co-dimension in Minkowski space time. *J. Hyperbolic Differ. Equ.* 3 (2006), no. 4, 691–700. <http://arxiv.org/abs/math/0512036>
+
+## Select Presentations
+
+- April 2026: Talk at [Rocky Mountain Section Meeting of the MAA](https://www.rockymountain.maa.org/events/2026-section-meeting)
+- September 2023: Talk at [Simons Center workshop "Mass, the Einstein Constraint Equations, and the Penrose Inequality Conjecture"](https://scgp.stonybrook.edu/archives/39191)
+- April 2023: Talk at the American Physical Society April Meeting session "Geometric Analysis and General Relativity"
+- March 2020: Local organizer for the [Pacific Northwest Geometry Seminar](https://sites.math.washington.edu/~lee/PNGS/2020-spring/index.html)
+- October 2019: Geometric Analysis Seminar at University of Oregon
+- February 2019: Oregon Liberal Arts Mathematics Colloquium at Linfield College
+- January 2019: Colloquium and Topology-Geometry Seminar at [Oregon State University](https://math.oregonstate.edu/)
+- January 2018: Talk in [AMS Special Session on Mathematical Relativity and Geometric Analysis](http://jointmathematicsmeetings.org/meetings/national/jmm2018/2197_program_ss72.html) at JMM
+- October 2017: Talk at [Pacific University](https://www.pacificu.edu/future-undergraduates/academics/areas-study/mathematics)
+- March 2017: Talk at the [Charleston AMS](http://www.ams.org/meetings/sectional/2228_program_ss20.html) meeting
+- February 2017: Short talk to math students at Lewis & Clark
+- July 2016: Talk at BIRS workshop "[Geometric Analysis and General Relativity](http://www.birs.ca/events/2016/5-day-workshops/16w5054)"
+- March 2016: Colloquium at University of Connecticut
+- January 2016: Short talk at the Joint Math Meetings
+- Summer 2015: [Mathematisches Forschungsinstitut Oberwolfach](http://www.mfo.de/)
+- Spring 2015: Lewis & Clark Physics Colloquium
+- Fall 2014: Seattle University Mathematics Colloquium
+- Summer 2014: University of Science & Technology of China, [Geometric Analysis and Relativity](http://math.ustc.edu.cn/Conference/2014gar/index.html)
+- Spring 2014: Willamette University Physics Colloquium

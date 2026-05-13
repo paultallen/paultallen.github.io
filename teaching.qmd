@@ -1,0 +1,46 @@
+---
+title: "Teaching"
+---
+
+## University of New Mexico - Taos
+
+Courses taught include:
+
+- Math 99 Pre-algebra
+- Math 100 Introduction to Algebra
+- Math 1215z Intermediate Algebra Part C
+- Math 1220 College Algebra
+- Math 1430 Applications Calculus I
+- Math 1512 Calculus I 
+- Math 1522 Calculus II
+
+## Lewis & Clark College
+
+As a faculty member at a small liberal arts college, I taught a wide variety of courses, ranging from first-year seminars to advanced mathematics classes. Courses taught include:
+
+- Math 103 Perspectives in Mathematics
+- Math 131 Calculus I
+- Math 132 Calculus II
+- Math 233 Calculus III
+- Math 225 Linear Algebra
+- Math 235 Differential Equations
+- Math 282 Modeling Competition Preparation
+- Math 305 Partial Differential Equations (formerly titled Calculus IV)
+- Math 355 Geometry
+- Math 358 Topology
+- Math 365 Complex Variables
+- Math 441 Real Analysis
+- Math 442 Advanced Topics in Analysis & Topology
+- CS 171 Computer Science I
+- Core 107 Exploration & Discovery II (first-year seminar course)
+- Core 121 Numbers (first-year seminar course)
+
+I have also supervised numerous independent study courses on a wide range of topics.
+
+## University of Washington Tacoma
+
+During my short time at UWT, I taught calculus, differential equations, and statistics.
+
+## University of Oregon
+
+While a graduate student at the University of Oregon, I was the instructor of record for a wide variety of 100-level mathematics courses including: college algebra, trigonometry, differential & integral calculus, and calculus for life sciences.

@@ -4,7 +4,20 @@ project:
 
 website:
   title: "Paul T Allen"
-  navbar: false
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Professional Trajectory"
+        href: trajectory.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Professional Activities"
+        href: activities.qmd
+      - text: "Scholarship"
+        href: scholarship.qmd
+      - text: "Contact"
+        href: contact.qmd
 
 format:
   html:
