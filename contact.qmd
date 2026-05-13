@@ -4,20 +4,20 @@ title: "Contact Information"
 
 ## University of New Mexico - Taos
 
-Paul T Allen
-STEM Department, MSC 12 7250
-University of New Mexico - Taos
-1157 County Road 110
+Paul T Allen\
+STEM Department, MSC 12 7250\
+University of New Mexico - Taos\
+1157 County Road 110\
 Ranchos De Taos, NM 87557 USA
 
-[paultallen \[at\] unm \[dot\] edu](mailto:paultallen@unm.edu)
+[paultallen@unm.edu](mailto:paultallen@unm.edu)
 
 ## Lewis & Clark College
 
-Paul T. Allen
-Department of Mathematical Sciences, MSC 110
-Lewis and Clark College
-615 S. Palatine Hill Road
+Paul T Allen\
+Department of Mathematical Sciences, MSC 110\
+Lewis and Clark College\
+615 S. Palatine Hill Road\
 Portland, OR 97219 USA
 
-Lewis & Clark email: [ptallen \[at\] lclark \[dot\] edu](mailto:ptallen@lclark.edu)
+[ptallen@lclark.edu](mailto:ptallen@lclark.edu)
