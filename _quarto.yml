@@ -8,6 +8,8 @@ website:
     left:
       - text: "Professional Trajectory"
         href: trajectory.qmd
+      - text: "Open Curricula"
+        href: curricula.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "Professional Activities"

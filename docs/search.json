@@ -1,66 +1,87 @@
 [
   {
-    "objectID": "activities.html",
-    "href": "activities.html",
-    "title": "Professional Activities",
+    "objectID": "curricula.html",
+    "href": "curricula.html",
+    "title": "Open Curricula",
     "section": "",
-    "text": "For scholarship-related activities see the Scholarship page."
+    "text": "Free, openly licensed curricula I have developed or am currently developing."
   },
   {
-    "objectID": "activities.html#university-of-new-mexico---taos",
-    "href": "activities.html#university-of-new-mexico---taos",
-    "title": "Professional Activities",
-    "section": "University of New Mexico - Taos",
-    "text": "University of New Mexico - Taos\nFormal service:\n\n2024-2025: I served as the STEM department representative to the UNM-Taos Curriculum Committee\n2025: I served as the faculty representative on the search committee that ultimately hired Pilar Robledo to be the Director of the UNM-Taos Center for Academic Success and Achievement.\n2025-present: I serve as the Vice President of the UNM-Taos Faculty Council.\n2026-present: I am one of two UNM-Taos faculty senators elected to the UNM Faculty Senate. As part of these duties, I serve on the Branch Campus Community Council.\n\nInformal service:\n\n2026-present: I am working with UNM-Taos testing center staff to improve workflow for students with testing accommodations.\n2025-present: I have assisted with the UNM-Taos Kickstarter II grant.\n2025-present: I have initiated an effort to coordinate messating from mathematics faculty & advising staff regarding mathematics pathways for students, and have created materials to help with advising.\n\nProfessional development:\n\n2024-2025: I participated in monthly Math Department professional development activities; participated in the campus-wide Escala program.\n2025-2026: I facilitated a campus-wide pedagogy reading group that met monthly throughout the year.\n2025-2026: I attended the Fall 2025 ArizMATYC conference and the Spring 2026 MAA Rocky Mountain Section Meeting\n\nCurriculum Development\n\n2025-2026: I was awarded an Open Textbook grant from the UNM OER program to develop a calculus curriculum and online textbook.\n2025-2026: I wrote a course packet and corresponding website for an activity-based curriculum for the introductory algebra course (Math 100) at UNM-Taos.\n2025-present: As part of the UNM-Taos Kickstarted II grant, I am working to develop technology modules for our algebra courses."
+    "objectID": "curricula.html#introductory-algebra",
+    "href": "curricula.html#introductory-algebra",
+    "title": "Open Curricula",
+    "section": "Introductory Algebra",
+    "text": "Introductory Algebra\nThe following curriculum is currently being used at UNM-Taos for the Math 100 course. The website contains a link to a pdf version of the curriculum that can be used as a workbook.\nIntroductory Algebra"
   },
   {
-    "objectID": "activities.html#lewis-clark-college",
-    "href": "activities.html#lewis-clark-college",
-    "title": "Professional Activities",
-    "section": "Lewis & Clark College",
-    "text": "Lewis & Clark College\nI have been on several faculty committees for the College of Arts & Sciences, including:\n\nCurriculum Committee for the College of Arts & Sciences, 2016–2022 and 2023–2024. I was committee chair in 2019/2020, 2020/2021, 2021/2022, 2023/2024.\nFaculty Council (an elected panel that advises the Dean), 2019–2021.\nLibrary & Educational Technology Committee, 2014–2016.\nAdmissions & Financial Aid Committee, 2010, 2012.\n\nI have served on several search committees:\n\n2023 Physics search\n2022 Biology search\n2015–2016 Physics search\n2013–2014 Sociology & Anthropology Search\n2013 Graduate School of Education search for Science\n2011–2012 Sociology & Anthropology Search\n2010–2011 Physics search\n\nI’ve also served on several other committees, including the working group that coordinated classroom logistics during covid restrictions (2020), as well as the steering committee for the summer science research program (2011–2019)."
+    "objectID": "curricula.html#college-algebra",
+    "href": "curricula.html#college-algebra",
+    "title": "Open Curricula",
+    "section": "College Algebra",
+    "text": "College Algebra\ncoming soon"
   },
   {
-    "objectID": "activities.html#conference-organizing",
-    "href": "activities.html#conference-organizing",
-    "title": "Professional Activities",
-    "section": "Conference Organizing",
-    "text": "Conference Organizing\n\nI served as the local organizer for the Pacific Northwest Geometry Seminar when it was held at Lewis & Clark College in 2017 and in 2020.\nI was a co-PI on the Pacific Northwest Geometry Seminar grant, 2019–2022.\nI co-organized a Special Session at the 2021 Mathematical Congress of the Americas."
+    "objectID": "curricula.html#applications-calculus",
+    "href": "curricula.html#applications-calculus",
+    "title": "Open Curricula",
+    "section": "Applications Calculus",
+    "text": "Applications Calculus\ncoming soon"
   },
   {
-    "objectID": "activities.html#editorial-boards",
-    "href": "activities.html#editorial-boards",
-    "title": "Professional Activities",
-    "section": "Editorial Boards",
-    "text": "Editorial Boards\n\nCambridge University Press, Textbook Advisory Board Member, 2021 – present\nMathematics Association of America, Associate Editor for MAA Press Textbook Series, 2021 – present"
+    "objectID": "curricula.html#differential-equations",
+    "href": "curricula.html#differential-equations",
+    "title": "Open Curricula",
+    "section": "Differential Equations",
+    "text": "Differential Equations\ncoming later"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Paul T Allen",
+    "objectID": "scholarship.html",
+    "href": "scholarship.html",
+    "title": "Scholarship",
     "section": "",
-    "text": "My primary professional identity is as a mathematics teacher. I love teaching mathematics and related subjects, and love helping my students grow.\nI maintain a modest, but active, research agenda in mathematics. My primary area of expertise is geometric partial differential equations and their applications to mathematical general relativity.\nWhen not teaching or doing mathematics, I enjoy being outdoors — hiking, paddling, gardening, and cross-country skiing. I also enjoy woodworking, and have made two wooden kayaks."
+    "text": "Most of my technical mathematical work involves problems in geometric analysis and mathematical general relativity. More specifically, I have worked on theory for solving partial differential equations related to the Einstein equations. I have also supervised a large number of undergraduate projects."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Information",
+    "objectID": "scholarship.html#projects-with-undergraduate-students",
+    "href": "scholarship.html#projects-with-undergraduate-students",
+    "title": "Scholarship",
+    "section": "Projects with Undergraduate Students",
+    "text": "Projects with Undergraduate Students\nI have supervised projects for undergraduate students on these topics:\n\nReaction-diffusion equations. I have supervised several projects related to numerical simulations of reaction-diffusion equations. Alison and Jenny completed a fun project on the Belousov-Zhabotinsky reaction. Sarah and Nuzhat both completed projects related to the FRAP imaging method.\nDiscrete analogs of differential equations. I have supervised two different projects related to discretizations of differential equations. Karlie and Sara worked on a project that established solutions to boundary value problems via discrete approximations. Eli and Mack studied flows of polygons that are semi-discrete analogs of the curve shortening flow.\nParabolic geometric flows. I have supervised two different projects related to parabolic geometric flows. Katie and Adam worked on the curve shortening flow subject to Dirichlet boundary conditions. Colin worked on a variant of the curve shortening flow arising from rotationally-symmetric mean curvature flow."
+  },
+  {
+    "objectID": "scholarship.html#papers",
+    "href": "scholarship.html#papers",
+    "title": "Scholarship",
+    "section": "Papers",
+    "text": "Papers\n\nPaul T. Allen, John M. Lee, and David Maxwell. Sobolev-class asymptotically hyperbolic manifolds and the Yamabe problem. Under review. https://arxiv.org/abs/2206.12854\nPaul T. Allen, James Isenberg, John M. Lee and Iva Stavrov Allen. Asymptotic Gluing of Shear-Free Hyperboloidal Initial Data Sets. Annales Henri Poincaré (2021). https://arxiv.org/abs/1912.02839\nPaul T. Allen. Boundary Value Problems and Finite Differences. College Math Journal 47 (2016), no. 1, 34–41.\nPaul T. Allen, James Isenberg, John M. Lee, Iva Stavrov Allen. The shear-free condition and constant-mean-curvature hyperboloidal initial data. Classical and Quantum Gravity, Volume 33, Number 11. arXiv:1506.06090\nPaul T. Allen and Iva Stavrov Allen. Smoothly compactifiable shear-free hyperboloidal data is dense in the physical topology. Annales Henri Poincaré (2017) 18: 2789. arXiv:1506.05842\nPaul T. Allen, James Isenberg, John M. Lee, Iva Stavrov Allen. Weakly asymptotically hyperbolic manifolds. Communications in Analysis and Geometry, Volume 26 (2018), Number 1. arXiv:1506.03399\nPaul T. Allen, Adam Layne, Katharine Tsukahara. The Dirichlet problem for curve shortening flow. (unpublished) arXiv:1208.3510\nPaul T. Allen, Lars Andersson, Alvaro Restuccia. Local well-posedness for membranes in the light cone gauge. Comm. Math. Phys. 301 (2011), no. 2, 383–410. http://arxiv.org/abs/0910.1488\nPaul T. Allen, Alan D. Rendall. Asymptotics of linearized cosmological perturbations. J. Hyperbolic Differ. Equ. 7 (2010), no. 2, 255–277. http://arxiv.org/abs/0906.2517\nPaul T. Allen, Adam Clausen, James Isenberg. Near-constant mean curvature solutions of the Einstein constraint equations with non-negative Yamabe metrics. Classical Quantum Gravity 25 (2008), no. 7, 075009, 15 pp. http://arxiv.org/abs/0710.0725\nPaul T. Allen, Lars Andersson, James Isenberg. Timelike minimal submanifolds of general co-dimension in Minkowski space time. J. Hyperbolic Differ. Equ. 3 (2006), no. 4, 691–700. http://arxiv.org/abs/math/0512036"
+  },
+  {
+    "objectID": "scholarship.html#select-presentations",
+    "href": "scholarship.html#select-presentations",
+    "title": "Scholarship",
+    "section": "Select Presentations",
+    "text": "Select Presentations\n\nApril 2026: Talk at Rocky Mountain Section Meeting of the MAA\nSeptember 2023: Talk at Simons Center workshop “Mass, the Einstein Constraint Equations, and the Penrose Inequality Conjecture”\nApril 2023: Talk at the American Physical Society April Meeting session “Geometric Analysis and General Relativity”\nMarch 2020: Local organizer for the Pacific Northwest Geometry Seminar\nOctober 2019: Geometric Analysis Seminar at University of Oregon\nFebruary 2019: Oregon Liberal Arts Mathematics Colloquium at Linfield College\nJanuary 2019: Colloquium and Topology-Geometry Seminar at Oregon State University\nJanuary 2018: Talk in AMS Special Session on Mathematical Relativity and Geometric Analysis at JMM\nOctober 2017: Talk at Pacific University\nMarch 2017: Talk at the Charleston AMS meeting\nFebruary 2017: Short talk to math students at Lewis & Clark\nJuly 2016: Talk at BIRS workshop “Geometric Analysis and General Relativity”\nMarch 2016: Colloquium at University of Connecticut\nJanuary 2016: Short talk at the Joint Math Meetings\nSummer 2015: Mathematisches Forschungsinstitut Oberwolfach\nSpring 2015: Lewis & Clark Physics Colloquium\nFall 2014: Seattle University Mathematics Colloquium\nSummer 2014: University of Science & Technology of China, Geometric Analysis and Relativity\nSpring 2014: Willamette University Physics Colloquium"
+  },
+  {
+    "objectID": "trajectory.html",
+    "href": "trajectory.html",
+    "title": "Professional Trajectory",
     "section": "",
-    "text": "Paul T Allen\nSTEM Department, MSC 12 7250\nUniversity of New Mexico - Taos\n1157 County Road 110\nRanchos De Taos, NM 87557 USA\npaultallen@unm.edu"
+    "text": "2024-present: Assistant Professor of Mathematics.\n\n\n\n\n\n2024-present: I am currently on leave from Lewis & Clark College.\n2016: Granted tenure and promoted to Associate Professor.\n2016: Teaching Fellow for the Teaching Effectiveness Program.\n2014: Honored as the Teacher of the Year.\n2010: Joined the Mathematical Sciences Department as an Assistant Professor of Mathematics.\n\n\n\n\n\n2009: Assistant Professor of Mathematics.\n\n\n\n\n\n2007-2008: Postdoctoral researcher."
   },
   {
-    "objectID": "contact.html#university-of-new-mexico---taos",
-    "href": "contact.html#university-of-new-mexico---taos",
-    "title": "Contact Information",
+    "objectID": "trajectory.html#academic-positions",
+    "href": "trajectory.html#academic-positions",
+    "title": "Professional Trajectory",
     "section": "",
-    "text": "Paul T Allen\nSTEM Department, MSC 12 7250\nUniversity of New Mexico - Taos\n1157 County Road 110\nRanchos De Taos, NM 87557 USA\npaultallen@unm.edu"
+    "text": "2024-present: Assistant Professor of Mathematics.\n\n\n\n\n\n2024-present: I am currently on leave from Lewis & Clark College.\n2016: Granted tenure and promoted to Associate Professor.\n2016: Teaching Fellow for the Teaching Effectiveness Program.\n2014: Honored as the Teacher of the Year.\n2010: Joined the Mathematical Sciences Department as an Assistant Professor of Mathematics.\n\n\n\n\n\n2009: Assistant Professor of Mathematics.\n\n\n\n\n\n2007-2008: Postdoctoral researcher."
   },
   {
-    "objectID": "contact.html#lewis-clark-college",
-    "href": "contact.html#lewis-clark-college",
-    "title": "Contact Information",
-    "section": "Lewis & Clark College",
-    "text": "Lewis & Clark College\nPaul T Allen\nDepartment of Mathematical Sciences, MSC 110\nLewis and Clark College\n615 S. Palatine Hill Road\nPortland, OR 97219 USA\nptallen@lclark.edu"
+    "objectID": "trajectory.html#education",
+    "href": "trajectory.html#education",
+    "title": "Professional Trajectory",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Oregon\n\n2007: Ph.D. in Mathematics; thesis supervised by James Isenberg.\n2003: M.S. in Mathematics.\n\n\n\nUniversity of Puget Sound\n\n2001: Bachelor degree with majors in Mathematics and Physics.\nCum laude; honors in both Mathematics and Physics."
   },
   {
     "objectID": "teaching.html",
@@ -98,52 +119,66 @@
     "text": "University of Oregon\nWhile a graduate student at the University of Oregon, I was the instructor of record for a wide variety of 100-level mathematics courses including: college algebra, trigonometry, differential & integral calculus, and calculus for life sciences."
   },
   {
-    "objectID": "trajectory.html",
-    "href": "trajectory.html",
-    "title": "Professional Trajectory",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Information",
     "section": "",
-    "text": "2024-present: Assistant Professor of Mathematics.\n\n\n\n\n\n2024-present: I am currently on leave from Lewis & Clark College.\n2016: Granted tenure and promoted to Associate Professor.\n2016: Teaching Fellow for the Teaching Effectiveness Program.\n2014: Honored as the Teacher of the Year.\n2010: Joined the Mathematical Sciences Department as an Assistant Professor of Mathematics.\n\n\n\n\n\n2009: Assistant Professor of Mathematics.\n\n\n\n\n\n2007-2008: Postdoctoral researcher."
+    "text": "Paul T Allen\nSTEM Department, MSC 12 7250\nUniversity of New Mexico - Taos\n1157 County Road 110\nRanchos De Taos, NM 87557 USA\npaultallen@unm.edu"
   },
   {
-    "objectID": "trajectory.html#academic-positions",
-    "href": "trajectory.html#academic-positions",
-    "title": "Professional Trajectory",
+    "objectID": "contact.html#university-of-new-mexico---taos",
+    "href": "contact.html#university-of-new-mexico---taos",
+    "title": "Contact Information",
     "section": "",
-    "text": "2024-present: Assistant Professor of Mathematics.\n\n\n\n\n\n2024-present: I am currently on leave from Lewis & Clark College.\n2016: Granted tenure and promoted to Associate Professor.\n2016: Teaching Fellow for the Teaching Effectiveness Program.\n2014: Honored as the Teacher of the Year.\n2010: Joined the Mathematical Sciences Department as an Assistant Professor of Mathematics.\n\n\n\n\n\n2009: Assistant Professor of Mathematics.\n\n\n\n\n\n2007-2008: Postdoctoral researcher."
+    "text": "Paul T Allen\nSTEM Department, MSC 12 7250\nUniversity of New Mexico - Taos\n1157 County Road 110\nRanchos De Taos, NM 87557 USA\npaultallen@unm.edu"
   },
   {
-    "objectID": "trajectory.html#education",
-    "href": "trajectory.html#education",
-    "title": "Professional Trajectory",
-    "section": "Education",
-    "text": "Education\n\nUniversity of Oregon\n\n2007: Ph.D. in Mathematics; thesis supervised by James Isenberg.\n2003: M.S. in Mathematics.\n\n\n\nUniversity of Puget Sound\n\n2001: Bachelor degree with majors in Mathematics and Physics.\nCum laude; honors in both Mathematics and Physics."
+    "objectID": "contact.html#lewis-clark-college",
+    "href": "contact.html#lewis-clark-college",
+    "title": "Contact Information",
+    "section": "Lewis & Clark College",
+    "text": "Lewis & Clark College\nPaul T Allen\nDepartment of Mathematical Sciences, MSC 110\nLewis and Clark College\n615 S. Palatine Hill Road\nPortland, OR 97219 USA\nptallen@lclark.edu"
   },
   {
-    "objectID": "scholarship.html",
-    "href": "scholarship.html",
-    "title": "Scholarship",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul T Allen",
     "section": "",
-    "text": "Most of my technical mathematical work involves problems in geometric analysis and mathematical general relativity. More specifically, I have worked on theory for solving partial differential equations related to the Einstein equations. I have also supervised a large number of undergraduate projects."
+    "text": "My primary professional identity is as a mathematics teacher. I love teaching mathematics and related subjects, and love helping my students grow.\nI maintain a modest, but active, research agenda in mathematics. My primary area of expertise is geometric partial differential equations and their applications to mathematical general relativity.\nWhen not teaching or doing mathematics, I enjoy being outdoors — hiking, paddling, gardening, and cross-country skiing. I also enjoy woodworking, and have made two wooden kayaks."
   },
   {
-    "objectID": "scholarship.html#projects-with-undergraduate-students",
-    "href": "scholarship.html#projects-with-undergraduate-students",
-    "title": "Scholarship",
-    "section": "Projects with Undergraduate Students",
-    "text": "Projects with Undergraduate Students\nI have supervised projects for undergraduate students on these topics:\n\nReaction-diffusion equations. I have supervised several projects related to numerical simulations of reaction-diffusion equations. Alison and Jenny completed a fun project on the Belousov-Zhabotinsky reaction. Sarah and Nuzhat both completed projects related to the FRAP imaging method.\nDiscrete analogs of differential equations. I have supervised two different projects related to discretizations of differential equations. Karlie and Sara worked on a project that established solutions to boundary value problems via discrete approximations. Eli and Mack studied flows of polygons that are semi-discrete analogs of the curve shortening flow.\nParabolic geometric flows. I have supervised two different projects related to parabolic geometric flows. Katie and Adam worked on the curve shortening flow subject to Dirichlet boundary conditions. Colin worked on a variant of the curve shortening flow arising from rotationally-symmetric mean curvature flow."
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Professional Activities",
+    "section": "",
+    "text": "For scholarship-related activities see the Scholarship page."
   },
   {
-    "objectID": "scholarship.html#papers",
-    "href": "scholarship.html#papers",
-    "title": "Scholarship",
-    "section": "Papers",
-    "text": "Papers\n\nPaul T. Allen, John M. Lee, and David Maxwell. Sobolev-class asymptotically hyperbolic manifolds and the Yamabe problem. Under review. https://arxiv.org/abs/2206.12854\nPaul T. Allen, James Isenberg, John M. Lee and Iva Stavrov Allen. Asymptotic Gluing of Shear-Free Hyperboloidal Initial Data Sets. Annales Henri Poincaré (2021). https://arxiv.org/abs/1912.02839\nPaul T. Allen. Boundary Value Problems and Finite Differences. College Math Journal 47 (2016), no. 1, 34–41.\nPaul T. Allen, James Isenberg, John M. Lee, Iva Stavrov Allen. The shear-free condition and constant-mean-curvature hyperboloidal initial data. Classical and Quantum Gravity, Volume 33, Number 11. arXiv:1506.06090\nPaul T. Allen and Iva Stavrov Allen. Smoothly compactifiable shear-free hyperboloidal data is dense in the physical topology. Annales Henri Poincaré (2017) 18: 2789. arXiv:1506.05842\nPaul T. Allen, James Isenberg, John M. Lee, Iva Stavrov Allen. Weakly asymptotically hyperbolic manifolds. Communications in Analysis and Geometry, Volume 26 (2018), Number 1. arXiv:1506.03399\nPaul T. Allen, Adam Layne, Katharine Tsukahara. The Dirichlet problem for curve shortening flow. (unpublished) arXiv:1208.3510\nPaul T. Allen, Lars Andersson, Alvaro Restuccia. Local well-posedness for membranes in the light cone gauge. Comm. Math. Phys. 301 (2011), no. 2, 383–410. http://arxiv.org/abs/0910.1488\nPaul T. Allen, Alan D. Rendall. Asymptotics of linearized cosmological perturbations. J. Hyperbolic Differ. Equ. 7 (2010), no. 2, 255–277. http://arxiv.org/abs/0906.2517\nPaul T. Allen, Adam Clausen, James Isenberg. Near-constant mean curvature solutions of the Einstein constraint equations with non-negative Yamabe metrics. Classical Quantum Gravity 25 (2008), no. 7, 075009, 15 pp. http://arxiv.org/abs/0710.0725\nPaul T. Allen, Lars Andersson, James Isenberg. Timelike minimal submanifolds of general co-dimension in Minkowski space time. J. Hyperbolic Differ. Equ. 3 (2006), no. 4, 691–700. http://arxiv.org/abs/math/0512036"
+    "objectID": "activities.html#university-of-new-mexico---taos",
+    "href": "activities.html#university-of-new-mexico---taos",
+    "title": "Professional Activities",
+    "section": "University of New Mexico - Taos",
+    "text": "University of New Mexico - Taos\nFormal service:\n\n2024-2025: I served as the STEM department representative to the UNM-Taos Curriculum Committee\n2025: I served as the faculty representative on the search committee that ultimately hired Pilar Robledo to be the Director of the UNM-Taos Center for Academic Success and Achievement.\n2025-present: I serve as the Vice President of the UNM-Taos Faculty Council.\n2026-present: I am one of two UNM-Taos faculty senators elected to the UNM Faculty Senate. As part of these duties, I serve on the Branch Campus Community Council.\n\nInformal service:\n\n2026-present: I am working with UNM-Taos testing center staff to improve workflow for students with testing accommodations.\n2025-present: I have assisted with the UNM-Taos Kickstarter II grant.\n2025-present: I have initiated an effort to coordinate messating from mathematics faculty & advising staff regarding mathematics pathways for students, and have created materials to help with advising.\n\nProfessional development:\n\n2024-2025: I participated in monthly Math Department professional development activities; participated in the campus-wide Escala program.\n2025-2026: I facilitated a campus-wide pedagogy reading group that met monthly throughout the year.\n2025-2026: I attended the Fall 2025 ArizMATYC conference and the Spring 2026 MAA Rocky Mountain Section Meeting\n\nCurriculum Development\n\n2025-2026: I was awarded an Open Textbook grant from the UNM OER program to develop a calculus curriculum and online textbook.\n2025-2026: I wrote a course packet and corresponding website for an activity-based curriculum for the introductory algebra course (Math 100) at UNM-Taos.\n2025-present: As part of the UNM-Taos Kickstarted II grant, I am working to develop technology modules for our algebra courses."
   },
   {
-    "objectID": "scholarship.html#select-presentations",
-    "href": "scholarship.html#select-presentations",
-    "title": "Scholarship",
-    "section": "Select Presentations",
-    "text": "Select Presentations\n\nApril 2026: Talk at Rocky Mountain Section Meeting of the MAA\nSeptember 2023: Talk at Simons Center workshop “Mass, the Einstein Constraint Equations, and the Penrose Inequality Conjecture”\nApril 2023: Talk at the American Physical Society April Meeting session “Geometric Analysis and General Relativity”\nMarch 2020: Local organizer for the Pacific Northwest Geometry Seminar\nOctober 2019: Geometric Analysis Seminar at University of Oregon\nFebruary 2019: Oregon Liberal Arts Mathematics Colloquium at Linfield College\nJanuary 2019: Colloquium and Topology-Geometry Seminar at Oregon State University\nJanuary 2018: Talk in AMS Special Session on Mathematical Relativity and Geometric Analysis at JMM\nOctober 2017: Talk at Pacific University\nMarch 2017: Talk at the Charleston AMS meeting\nFebruary 2017: Short talk to math students at Lewis & Clark\nJuly 2016: Talk at BIRS workshop “Geometric Analysis and General Relativity”\nMarch 2016: Colloquium at University of Connecticut\nJanuary 2016: Short talk at the Joint Math Meetings\nSummer 2015: Mathematisches Forschungsinstitut Oberwolfach\nSpring 2015: Lewis & Clark Physics Colloquium\nFall 2014: Seattle University Mathematics Colloquium\nSummer 2014: University of Science & Technology of China, Geometric Analysis and Relativity\nSpring 2014: Willamette University Physics Colloquium"
+    "objectID": "activities.html#lewis-clark-college",
+    "href": "activities.html#lewis-clark-college",
+    "title": "Professional Activities",
+    "section": "Lewis & Clark College",
+    "text": "Lewis & Clark College\nI have been on several faculty committees for the College of Arts & Sciences, including:\n\nCurriculum Committee for the College of Arts & Sciences, 2016–2022 and 2023–2024. I was committee chair in 2019/2020, 2020/2021, 2021/2022, 2023/2024.\nFaculty Council (an elected panel that advises the Dean), 2019–2021.\nLibrary & Educational Technology Committee, 2014–2016.\nAdmissions & Financial Aid Committee, 2010, 2012.\n\nI have served on several search committees:\n\n2023 Physics search\n2022 Biology search\n2015–2016 Physics search\n2013–2014 Sociology & Anthropology Search\n2013 Graduate School of Education search for Science\n2011–2012 Sociology & Anthropology Search\n2010–2011 Physics search\n\nI’ve also served on several other committees, including the working group that coordinated classroom logistics during covid restrictions (2020), as well as the steering committee for the summer science research program (2011–2019)."
+  },
+  {
+    "objectID": "activities.html#conference-organizing",
+    "href": "activities.html#conference-organizing",
+    "title": "Professional Activities",
+    "section": "Conference Organizing",
+    "text": "Conference Organizing\n\nI served as the local organizer for the Pacific Northwest Geometry Seminar when it was held at Lewis & Clark College in 2017 and in 2020.\nI was a co-PI on the Pacific Northwest Geometry Seminar grant, 2019–2022.\nI co-organized a Special Session at the 2021 Mathematical Congress of the Americas."
+  },
+  {
+    "objectID": "activities.html#editorial-boards",
+    "href": "activities.html#editorial-boards",
+    "title": "Professional Activities",
+    "section": "Editorial Boards",
+    "text": "Editorial Boards\n\nCambridge University Press, Textbook Advisory Board Member, 2021 – present\nMathematics Association of America, Associate Editor for MAA Press Textbook Series, 2021 – present"
   }
 ]
