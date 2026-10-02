@@ -5,9 +5,11 @@ title: "Open Curricula"
 Free, openly licensed curricula I have developed or am currently developing.
 
 ## Introductory Algebra
-The following curriculum is currently being used at UNM-Taos for the Math 100 course. The website contains a link to a pdf version of the curriculum that can be used as a workbook.
+The following curriculum is currently being used at UNM-Taos for the Math 100 course. This curriculum is available both as a pdf workbook and also as a website.
 
-[Introductory Algebra](https://paultallen.github.io/math_100/)
+[Introductory Algebra - Current Web Version](https://paultallen.github.io/math_100/)
+
+[Introductory Algebra - Fall 2026 Workbook (pdf)](files/Math-100-Fall-2026-Edition.pdf)
 
 ## College Algebra
 _coming soon_
