@@ -17,5 +17,8 @@ _coming soon_
 ## Applications Calculus
 _coming soon_
 
+
+:::{.content-hidden}
 ## Differential Equations
 _coming later_
+:::
