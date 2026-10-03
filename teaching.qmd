@@ -8,6 +8,7 @@ Courses taught include:
 
 - Math 99 Pre-algebra
 - Math 100 Introduction to Algebra
+- Math 1215x Intermediate Algebra Part A
 - Math 1215z Intermediate Algebra Part C
 - Math 1220 College Algebra
 - Math 1430 Applications Calculus I

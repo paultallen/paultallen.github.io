@@ -4,15 +4,7 @@ title: "Scholarship"
 
 Most of my technical mathematical work involves problems in geometric analysis and mathematical general relativity. More specifically, I have worked on theory for solving partial differential equations related to the Einstein equations. I have also supervised a large number of undergraduate projects.
 
-## Projects with Undergraduate Students
 
-I have supervised projects for undergraduate students on these topics:
-
-- **Reaction-diffusion equations.** I have supervised several projects related to numerical simulations of reaction-diffusion equations. Alison and Jenny completed a fun project on the Belousov-Zhabotinsky reaction. Sarah and Nuzhat both completed projects related to the FRAP imaging method.
-
-- **Discrete analogs of differential equations.** I have supervised two different projects related to discretizations of differential equations. Karlie and Sara worked on a project that established solutions to boundary value problems via discrete approximations. Eli and Mack studied flows of polygons that are semi-discrete analogs of the curve shortening flow.
-
-- **Parabolic geometric flows.** I have supervised two different projects related to parabolic geometric flows. Katie and Adam worked on the curve shortening flow subject to Dirichlet boundary conditions. Colin worked on a variant of the curve shortening flow arising from rotationally-symmetric mean curvature flow.
 
 ## Papers
 
@@ -59,3 +51,13 @@ I have supervised projects for undergraduate students on these topics:
 - Fall 2014: Seattle University Mathematics Colloquium
 - Summer 2014: University of Science & Technology of China, [Geometric Analysis and Relativity](http://math.ustc.edu.cn/Conference/2014gar/index.html)
 - Spring 2014: Willamette University Physics Colloquium
+
+## Projects with Undergraduate Students
+
+I have supervised projects for undergraduate students on these topics:
+
+- **Reaction-diffusion equations.** I have supervised several projects related to numerical simulations of reaction-diffusion equations. Alison and Jenny completed a fun project on the Belousov-Zhabotinsky reaction. Sarah and Nuzhat both completed projects related to the FRAP imaging method.
+
+- **Discrete analogs of differential equations.** I have supervised two different projects related to discretizations of differential equations. Karlie and Sara worked on a project that established solutions to boundary value problems via discrete approximations. Eli and Mack studied flows of polygons that are semi-discrete analogs of the curve shortening flow.
+
+- **Parabolic geometric flows.** I have supervised two different projects related to parabolic geometric flows. Katie and Adam worked on the curve shortening flow subject to Dirichlet boundary conditions. Colin worked on a variant of the curve shortening flow arising from rotationally-symmetric mean curvature flow.
