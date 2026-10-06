@@ -1,9 +1,23 @@
 ---
 title: "Paul T Allen"
+toc: false
 ---
 
+:::: {.columns}
+
+::: {.column width="35%"}
+![](files/profile.jpg){fig-alt="Photo of Paul T Allen" style="border-radius: 8px;"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
 My primary professional identity is as a mathematics teacher. I love teaching mathematics and related subjects, and love helping my students grow.
 
 I maintain a modest, but active, research agenda in mathematics. My primary area of expertise is geometric partial differential equations and their applications to mathematical general relativity.
 
 When not teaching or doing mathematics, I enjoy being outdoors — hiking, paddling, gardening, and cross-country skiing. I also enjoy woodworking, and have made two wooden kayaks.
+:::
+
+::::
