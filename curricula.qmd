@@ -17,6 +17,9 @@ _coming soon_
 ## Applications Calculus
 _coming soon_
 
+## Other Projects
+
+- [Math Practice](https://paultallen.github.io/math_facts_practice/index.html) A mobile-friendly site where students can drill themselves on basic addition, subtraction, multiplication, division.
 
 :::{.content-hidden}
 ## Differential Equations
