@@ -27,12 +27,16 @@ Professional development:
 - 2025-2026: I facilitated a campus-wide pedagogy reading group that met monthly throughout the year.
 - 2025-2026: I attended the [Fall 2025 ArizMATYC conference](https://arizmatyc.org/wp/fall-2025-conference/) and the [Spring 2026 MAA Rocky Mountain Section Meeting](https://www.rockymountain.maa.org/events/2026-section-meeting)
 
-Curriculum Development
+Curriculum Development:
 
 - 2025-2026: I was awarded an Open Textbook grant from the UNM OER program to develop a calculus curriculum and online textbook.
 - 2025-2026: I wrote a course packet and corresponding website for an activity-based curriculum for the introductory algebra course (Math 100) at UNM-Taos.
 - 2025-present: As part of the UNM-Taos Kickstarter II grant, I am working to develop technology modules for our algebra courses.
 - 2026-present: as part of the UNM-Taos Kickstarter II grant, I am working to coordinate the scaffolding of topics and material across our mathematics courses.
+
+Other activities:
+
+- 2026: I served as the local organizer for _Math + Me_, a collaboration between the [Paseo Project](https://paseoproject.org/), UNM-Taos, and the [Imaginary Project](https://about.imaginary.org/). We ran workshops where math and art students explored mathematics and 3D graphics, and subsequently hosted an art exhibit featuring student-created artworks in the UNM-Taos STEM building.
 
 ## Lewis & Clark College
 
