@@ -12,10 +12,10 @@ website:
         href: curricula.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Professional Activities"
-        href: activities.qmd
       - text: "Scholarship"
         href: scholarship.qmd
+      - text: "Professional Activities"
+        href: activities.qmd
       - text: "Contact"
         href: contact.qmd
 

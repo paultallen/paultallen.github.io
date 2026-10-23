@@ -1,14 +1,16 @@
 ---
-title: "Scholarship"
+title: "Mathematics Scholarship"
 ---
 
-Most of my technical mathematical work involves problems in geometric analysis and mathematical general relativity. More specifically, I have worked on theory for solving partial differential equations related to the Einstein equations. I have also supervised a large number of undergraduate projects.
+Most of my technical mathematical work involves problems in geometric analysis and mathematical general relativity. 
+More specifically, I  work on theory for solving partial differential equations related to the Einstein equations. 
+I have also supervised a large number of undergraduate projects.
 
 
 
 ## Papers
 
-- Paul T. Allen, John M. Lee, and David Maxwell. Sobolev-class asymptotically hyperbolic manifolds and the Yamabe problem. *Under review.* <https://arxiv.org/abs/2206.12854>
+- Paul T. Allen, John M. Lee, and David Maxwell. Sobolev-class asymptotically hyperbolic manifolds and the Yamabe problem. To appear in [Mémoires de la Société mathématique de France](https://smf.emath.fr/publications/memoires-articles-acceptes-papers-be-published). <https://arxiv.org/abs/2206.12854>
 
 - Paul T. Allen, James Isenberg, John M. Lee and Iva Stavrov Allen. Asymptotic Gluing of Shear-Free Hyperboloidal Initial Data Sets. [*Annales Henri Poincaré* (2021)](https://rdcu.be/ccV68). <https://arxiv.org/abs/1912.02839>
 
